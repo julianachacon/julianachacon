@@ -1,9 +1,15 @@
-### Olá! Eu sou a Juliana Chacon
+### Olá! Eu sou a Juliana Chacon Batista
 
+- ⚙️ Atualmente trabalho com gerência e criação de arte para jogos
+- 💗 Interesse em programação front-end e back-end
+- 📚 Estudando Programação em PYTHON, HTML e CSS
+- 💬 E-mail: julianachaconbatista@gmail.com
 
-- 🔭 Hoje trabalho com criação de splits para jogos
-- 🌱 Estudando Programação em PYTHON, HTML e CSS
-- 📫 Contate-me pelo e-mail: julianachaconbatista@gmail.com
+<div>
+  
+### Formação:
+- Em andamento: Bacharelado em Ciência da Computação (UNIPE)
+- Bacharela em Comunicação em Mídias Digitais (UFPB)  
 
 
 <div align="center">
